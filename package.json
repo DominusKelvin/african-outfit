@@ -1,0 +1,26 @@
+{
+  "name": "african-outfit",
+  "version": "1.0.0",
+  "description": "A web app for sharing and show-casing outfits made by african designers and tailors",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominusKelvin/african-outfit.git"
+  },
+  "author": "Kelvin Omereshone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominusKelvin/african-outfit/issues"
+  },
+  "homepage": "https://github.com/DominusKelvin/african-outfit#readme"
+}
